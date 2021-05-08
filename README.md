@@ -2,6 +2,8 @@
 
 Dark version of the LuCi Web Interface theme by editing **cascade.css**
 
+**Notice:** Realtime Graphs can't be dark
+
 ### Installing the CSS file
 ```bash
 # First backup the css file 
