@@ -1,6 +1,6 @@
 # luci-theme-dark
 
-Dark version of the LuCi Web Interface theme by **cascade.css**
+Dark version of the LuCi Web Interface theme by editing **cascade.css**
 
 ### Installing the CSS file
 ```bash
